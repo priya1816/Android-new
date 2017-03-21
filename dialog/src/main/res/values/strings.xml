@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="Alert">Alert</string>
+    <string name="Date">Date</string>
+    <string name="Time">Time</string>
+    <string name="Progress">Progress</string>
+    <string name="Custom">Custom</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
