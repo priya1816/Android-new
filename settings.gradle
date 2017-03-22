@@ -1,1 +1,1 @@
-include ':app', ':activitylifecycle', ':fragment', ':fragment2', ':dialog', ':intentandintentfilters', ':broadcastreceiver'
+include ':app', ':activitylifecycle', ':fragment', ':fragment2', ':dialog', ':intentandintentfilters', ':broadcastreceiver', ':sharedpreferences', ':external', ':internal'

@@ -13,9 +13,12 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/broadcastreceiver" />
             <option value="$PROJECT_DIR$/dialog" />
+            <option value="$PROJECT_DIR$/external" />
             <option value="$PROJECT_DIR$/fragment" />
             <option value="$PROJECT_DIR$/fragment2" />
             <option value="$PROJECT_DIR$/intentandintentfilters" />
+            <option value="$PROJECT_DIR$/internal" />
+            <option value="$PROJECT_DIR$/sharedpreferences" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sharedpreferences</string>
+    <string name="Save">Save</string>
+    <string name="Retrive">Retrive</string>
+</resources>
